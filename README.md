@@ -14,5 +14,7 @@ Además los datos se guardan en un fichero, por lo tanto al reiniciar la app las
 
 <br><br><br>
 
-Este proyecto pertenece al curso 'Node: De cero a experto ( Edición 2021 )', creado por Fernando Herrera
+---
+Esta aplicación es parte del siguiente curso:<br>
+[Node de cero a experto](https://fernando-herrera.com/#/curso/node-cero-experto)
 
